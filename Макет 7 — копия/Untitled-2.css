@@ -1,0 +1,141 @@
+.div{
+background:  url(Layer\ 10.png)  ;
+width: 1900px;
+height: 770px;
+display: flex;
+
+justify-content: space-between;
+}
+*{
+    margin: 0;
+}
+.div0{
+margin-left: 900px;
+width: 400px;
+display: flex;
+color: rgb(255, 255, 255);
+gap: 25px;
+}
+
+
+
+
+
+.H1{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+color: whitesmoke;
+display: flex;
+align-items: center;
+justify-content: space-around;
+margin:  0 500px 0 0;
+}
+.logo{
+ margin-left: 260px  ;  
+ font-size: 50px; 
+ color: whitesmoke;
+}
+.logo2{
+font-size: 25px;
+align-items: center;
+display: flex;
+justify-content: space-around;
+padding: 150px 0 0 0;
+}
+.h3{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+
+
+}
+.div2{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+padding: 50px;
+
+}
+.png{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+margin: 50px 0 0 350px;
+}
+
+
+   
+
+.div3{
+   margin: 0 0 0 750px;
+   gap: 30px;
+    align-items: center;
+ 
+display: flex;
+    
+}
+.png2{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+margin: 50px 0 0 350px; 
+}
+.footer{
+    background-color: red;
+height: 340px;
+width: 1900px;
+}
+.png3{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+padding: 100px 0 0 0;
+
+}
+.png4{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+padding: 100px 0 0 0;
+color: whitesmoke;
+}
+.a1{
+    color: whitesmoke;
+}
+.poloska{
+    width: 70px;
+height: 4px;
+background-color: black;
+margin: 0 0 0 635px;
+
+}
+.poloska2{
+    width: 70px;
+    height: 4px;
+    background-color: whitesmoke;
+    margin: 0 0 0 900px;
+
+
+}
+.logo3{
+    font-size: 25px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    padding: 150px 0 0 0;
+margin-left: auto;
+margin-right: auto;
+}
+
+@media(max-width: 1000px)
+
+{
+.png
+ width : 100px;
+
+}
+
+
+
+
